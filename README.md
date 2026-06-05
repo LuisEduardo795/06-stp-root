@@ -113,3 +113,5 @@ show spanning-tree vlan 1
 show spanning-tree inconsistentports
 show errdisable recovery
 ```
+## Video demostrativo
+https://youtu.be/PkD2nc6wKXs
