@@ -1,13 +1,6 @@
 # 06-stp-root
 Ataque STP Root Claim
 
-## Información del Laboratorio
-- **Asignatura:** Seguridad de Redes
-- **Estudiante:** Tu Nombre Completo
-- **Matrícula:** Tu Matrícula
-- **Fecha:** Junio 2026
-
----
 
 ## Objetivo del Laboratorio
 Demostrar cómo un atacante puede manipular el protocolo STP
