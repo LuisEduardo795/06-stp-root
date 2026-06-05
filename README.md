@@ -43,9 +43,9 @@ por los switches de la red.
 
 | Dispositivo | Interfaz | IP |
 |---|---|---|
-| Ubuntu-Atacante | eth0 | 192.168.1.50/24 |
+| Ubuntu-Atacante | ens3 | 192.168.67.50/24 |
 | SW-Core | e0/0 - e0/1 | — |
-| Linux-Victima | eth0 | 192.168.1.10/24 |
+| Linux-Victima | ens3 | 192.168.67.60/24 |
 
 
 ## Funcionamiento del Script
